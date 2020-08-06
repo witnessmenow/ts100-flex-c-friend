@@ -11,7 +11,7 @@ Info and documentation for the TS100 Flex-C-Friend, an external add-on for TS-10
 
 The TS100 will heat up faster using 20V, but it will not work if the supply does not support enough current!
 
-### More Details Around The Switch:
+#### More Details Around The Switch:
 
 The TS100 uses different amounts of current based on what voltage it uses:
 
