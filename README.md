@@ -51,7 +51,7 @@ I do not own this supply, but have been happy with their products In the past.
 - [Amazon.co.uk*](https://amzn.to/2DIDNnu)
 - [Amazon.com*](https://amzn.to/2XylwAs)
 
-* = Affilate
+\* = Affilate
 
 
 
