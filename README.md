@@ -1,6 +1,7 @@
 # ts100-flex-c-friend
-Info and documentation for the TS100 Flex-C-Friend, an external add-on for TS-100 for adding USB-C Power Deliver (PD)
+The Flex-C-Friend is an external module for the TS100 soldering iron that allows you to power the Iron from a USB-C Power Delivery PSU. 
 
+This repo contains hardware files for this project and also documentation for using the product.
 
 ## Power Selector Switch
 
@@ -60,5 +61,4 @@ I do not own this supply, but have been happy with their products In the past.
 
 
 
-
-
+Documentation licensed under the Creative Commons Attribution Share Alike 4.0 International License
