@@ -51,7 +51,15 @@ I do not own this supply, but have been happy with their products In the past.
 - [Amazon.co.uk*](https://amzn.to/2DIDNnu)
 - [Amazon.com*](https://amzn.to/2XylwAs)
 
+
 \* = Affilate
+
+#### Other Supplies
+
+See a list of chargers tested with the Flex-C-Friend, and feel free to add your own!
+
+[List](https://github.com/witnessmenow/ts100-flex-c-friend/blob/master/supplies.md)
+
 
 
 
