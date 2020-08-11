@@ -54,7 +54,7 @@ I do not own this supply, but have been happy with their products In the past.
 
 \* = Affilate
 
-#### Other Supplies
+### Other Supplies
 
 [Here is a list of chargers tested with the Flex-C-Friend](https://github.com/witnessmenow/ts100-flex-c-friend/blob/master/supplies.md), and feel free to add your own!
 
