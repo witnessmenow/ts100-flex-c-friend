@@ -1,6 +1,8 @@
 # ts100-flex-c-friend
 The Flex-C-Friend is an open source external module for the TS100 soldering iron that allows you to power the Iron from a USB-C Power Delivery PSU, including compatible battery banks.
 
+![img](https://i.imgur.com/iFAO6KE.png?1)
+
 Coming soon to my Tindie Store!
 
 I am very proud to say that it is the first OSHWA certified project from Ireland! - [OSHWA UID: IE000001](https://certification.oshwa.org/ie000001.html)
@@ -86,6 +88,10 @@ I do not own this supply, but have been happy with their products In the past.
 ### Other Supplies
 
 [Here is a list of chargers tested with the Flex-C-Friend](https://github.com/witnessmenow/ts100-flex-c-friend/blob/master/supplies.md), and feel free to add your own!
+
+## More info/details
+
+- [Hacakaday.io Flex-C-Friend Project page](https://hackaday.io/project/172187-ts100-flex-c-friend)
 
 
 ## Documentation License
