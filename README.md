@@ -37,7 +37,7 @@ To use the Flex-C-Friend, you will require the following hardware:
 
 The Flex-C-Friend is designed to work with USB-C Power Delivery supplies. Power Delivery (PD) is a specific type of standard for USB-C PSUs, it will usually be labeled on the product listing and on the side/bottom of the PSU.
 
-PD supplies can support a range of different voltage levels, and to ensure compatibility with most PD supplies the Flex-C-Friend has a switch that allows you to configure what voltage is requested from the PSU.
+PD supplies can support a range of different voltage levels, and to ensure compatibility with most PD supplies, the Flex-C-Friend has a switch that allows you to configure what voltage is requested from the PSU.
 
 To help illustrate what to do, here are some instructions that are sure to bring back some flat-pack related traumas in your life!
 
@@ -54,7 +54,9 @@ If you still aren't sure, please reach out to me on [my discord](http://blough.i
 
 #### More Details Around The Switch:
 
-The switch is not a guarantee that you will get the voltage it is set to, the IP2721 (the IC used on the Flex-C-Friend for PD negotiating) will try request the selected voltage from the PSU, but it will accept the highest voltage under that. For Example, if you have the switch at "20V" and you plug it into a PSU that the highest voltage it supports is 15V, it will negotiate 15V.
+The switch is not a guarantee that you will get the voltage it is set to. The IP2721 (the IC used on the Flex-C-Friend for PD negotiating) will try to request the selected voltage from the PSU, but it will accept the highest voltage under that. 
+
+For Example, if you have the switch at "20V" and you plug it into a PSU that the highest voltage it supports is 15V, it will negotiate 15V.
 
 ## What Power Supply To Use
 
