@@ -1,5 +1,9 @@
 # FAQ
 
+## Why does the switch face inwards?
+
+I wanted to try ensure the switch was never unintentionally changed and one suggestion I got on a stream was to face it inwards. The switch will be toggled very very infreuently, most people will only change it once to match their power supply and then leave it as it is. The inward facing switch can be toggled without using any tools, but it is slightly awkward to do.
+
 ## What is the maximum power that can be supplied to the TS100 with a Flex-C-Friend?
 
 *TL;DR*: ~48W
