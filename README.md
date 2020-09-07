@@ -3,7 +3,7 @@ The Flex-C-Friend is an open source external module for the TS100 soldering iron
 
 ![img](https://i.imgur.com/iFAO6KE.png?1)
 
-Coming soon to my Tindie Store!
+Available on my [Tindie Store](https://www.tindie.com/products/21280/)!
 
 I am very proud to say that it is the first OSHWA certified project from Ireland! - [OSHWA UID: IE000001](https://certification.oshwa.org/ie000001.html)
 
@@ -25,7 +25,7 @@ To use the Flex-C-Friend, you will require the following hardware:
     - [Amazon.co.uk*](https://amzn.to/31gFd1S)
 - USB-C Power Delivery PSU - See below for more details
 - XT60 to 5525 Cable - traditionally these would have been used for powering the TS100 via LiPO batteries. 
-   - 45CM Miniware branded - Optional Add-on on the Tindie listing (coming soon)
+   - 45CM Miniware branded - Optional Add-on on the [Tindie listing](https://www.tindie.com/products/21280/)
    - [45CM Possibly Miniware branded (not sure, not the source of the above) Aliexpress](https://www.aliexpress.com/item/4000798024535.html)
    - [150CM RJXHobby Aliexpress*](https://s.click.aliexpress.com/e/_d6P4TaK)
 
@@ -94,6 +94,7 @@ I do not own this supply, but have been happy with their products In the past.
 ## More info/details
 
 - [Hacakaday.io Flex-C-Friend Project page](https://hackaday.io/project/172187-ts100-flex-c-friend)
+- [Frequently Asked Questions](FAQ.md) - Feel free to raise an issue if something isn't covered.
 
 
 ## Documentation License
