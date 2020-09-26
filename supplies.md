@@ -32,6 +32,8 @@ A list of Power supplies that have been tested (feel free to submit a PR with on
 | Action 45W PD Supply | 45W           | 20V (OS!)                 | 20V (OS!)            | Action Store (NL)              | In spec at 15V. Tested by Refthoom on discord |
 | Official Nintendo Switch Supply | ?           | 15V                | 15V            |               | Tested by Grim_Wreeper |
 | Amazon Basics USB-C PD | 30W           | 15V                 | 15V           | <ul><li>[Amazon.co.uk*](https://amzn.to/3afOhav)</li></ul> | Supports 20V, but does not have the current for it, switch must be switched to 15V. I tested the white one |
+| Anker PowerPort<br>Atom III 60W<br>(Model A2613) | 60W | 20V | 20V |
+| Anker PowerPort<br>Speed PD 5<br>(Model A2056) | 30W<br>PD | 15V | 15V | | Didn't try 20V, it would be over-spec. It's 60W total but only 30W on the PD port.
 | UGREEN USB-C PD Charger | 18W           | 12V                 | Doesn't matter   | <ul><li>[Amazon.co.uk*](https://amzn.to/31JfMFt)</li></ul> | Only supports 12V, while it works, I recommend getting something more powerful |
 
 #### Not Working
