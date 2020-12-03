@@ -10,7 +10,7 @@ A list of Power supplies that have been tested (feel free to submit a PR with on
 
 | Model                | Wattage       | Max Working Voltage | Switch        | Link          | Note          | 
 | -------------------- | ------------- | ------------------- | ------------- | ------------- | ------------- |
-| RavPower 60w PD      | 60W           | 20V                 | 20V           | <ul><li>[Amazon.co.uk*](https://amzn.to/2XsIUzt)</li><li>[Amazon.com*](https://amzn.to/31m7jb7)</li></ul>  |   |
+| RavPower 60w PD      | 60W           | 20V                 | 20V           | <ul><li>[Amazon.co.uk*](https://amzn.to/2XsIUzt)</li><li>[Amazon.com*](https://amzn.to/31m7jb7)</li></ul>  | Some newer versions have an audible whine when being used with PD decoy modules (including the Flex-C-Friend)   |
 | Omars Power Bank PD  | 45W           | 20V (OS!)                 | 20V (OS!)           | [Amazon.co.uk*](https://amzn.to/2DumEyd)   | In spec at 15V. Tested by myself and Colin Hickey |
 | Anker PowerCore+ 26800 PD | 30W      | 15V                 | 15V           |               | Tested by XanderS on discord |
 
