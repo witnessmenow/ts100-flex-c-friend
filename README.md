@@ -74,6 +74,8 @@ The Flex-C-Friend is designed to work with most USB-C PD supplies, it can be bro
 
 I have this exact supply and it works great.
 
+*Update:* Some of the newer versions of this supply have an audible whine when being used with the decoy modules (including the Flex-C-Friend)
+
 - [Amazon.co.uk*](https://amzn.to/2XsIUzt)
 - [Amazon.com*](https://amzn.to/31m7jb7)
 
